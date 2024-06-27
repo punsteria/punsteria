@@ -1,4 +1,6 @@
 # Punsteria Links
+![Punsteria](https://punsteria.com/wp-content/uploads/2024/01/Punsteria.png)
+
 
 [panda puns](https://punsteria.com/panda-puns/)
 [light puns](https://punsteria.com/light-puns/)
